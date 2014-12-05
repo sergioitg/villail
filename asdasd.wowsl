@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>asdasd</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>blast</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/ionosphere/</ImageTemplate>
+            <ImageTemplateName>Ionosphere</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/sergio9506/Desktop/Nueva carpeta (5)/galeria.html</PublishFileName>
+            <PublishIndex>galeria.html</PublishIndex>
+            <PublishPath>C:/Users/sergio9506/Desktop/Nueva carpeta (5)</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>ionosphere</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/sergio9506/Desktop/Nueva carpeta (4)/1061641157_RGAYPRCJTYWBKBD.jpg</url>
+                <title>1061641157_RGAYPRCJTYWBKBD</title>
+            </Image>
+            <Image>
+                <url>C:/Users/sergio9506/Desktop/Nueva carpeta (4)/images (1).jpg</url>
+                <title>images (1)</title>
+            </Image>
+            <Image>
+                <url>C:/Users/sergio9506/Desktop/Nueva carpeta (4)/images.jpg</url>
+                <title>images</title>
+            </Image>
+            <Image>
+                <url>C:/Users/sergio9506/Desktop/Nueva carpeta (4)/parroquiailuminada.jpg</url>
+                <title>parroquiailuminada</title>
+            </Image>
+            <Image>
+                <url>C:/Users/sergio9506/Desktop/Nueva carpeta (4)/villa.jpg</url>
+                <title>villa</title>
+            </Image>
+            <Image>
+                <url>C:/Users/sergio9506/Desktop/Nueva carpeta (4)/villailuminada_04.jpg</url>
+                <title>villailuminada_04</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
